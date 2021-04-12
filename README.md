@@ -11,3 +11,6 @@
 | [Merge two Arrays](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/merge_two_arrays.js)||:octocat:|
 | [Vowel Count](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Vowel_Count.js)||:octocat:|
 | [Even or Odd](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Even_or_Odd.js)|:octocat:|
+| [Mumbling](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Mumbling.js)||:octocat:|
+| [Highest and Lowest](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Highest_and_Lowest.js)||:octocat:|
+| [Digital Root](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Digital_Root.js)|||:octocat:|
