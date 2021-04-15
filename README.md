@@ -14,3 +14,5 @@
 | [Mumbling](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Mumbling.js)||:octocat:|
 | [Highest and Lowest](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Highest_and_Lowest.js)||:octocat:|
 | [Digital Root](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Digital_Root.js)|||:octocat:|
+| [Shortest Word](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Shortest_Word.js)||:octocat:|
+| [Sum of positive](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Sum_of_positive.js)|:octocat:|
