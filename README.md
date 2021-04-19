@@ -16,3 +16,5 @@
 | [Digital Root](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Digital_Root.js)|||:octocat:|
 | [Shortest Word](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Shortest_Word.js)||:octocat:|
 | [Sum of positive](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Sum_of_positive.js)|:octocat:|
+| [Descending Order](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Descending_Order.js)||:octocat:|
+| [Bit Counting](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Bit_Counting.js)|||:octocat:|
