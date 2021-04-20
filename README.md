@@ -18,3 +18,4 @@
 | [Sum of positive](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Sum_of_positive.js)|:octocat:|
 | [Descending Order](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Descending_Order.js)||:octocat:|
 | [Bit Counting](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Bit_Counting.js)|||:octocat:|
+| [Create Phone Number](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Create_Phone_Number.js)|||:octocat:|
