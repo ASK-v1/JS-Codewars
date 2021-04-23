@@ -21,7 +21,7 @@
 | [Create Phone Number](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Create_Phone_Number.js)|||:octocat:|
 | [Find The Parity Outlier](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Find_The_Parity_Outlier.js)|||:octocat:|
 | [Stop gninnipS My sdroW!](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Stop_gninnipS_My_sdroW!.js)|||:octocat:|
-| [Who likes it?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Who_likes_it?.js)|||:octocat:|
+| [Who likes it?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Who_likes_it.js)|||:octocat:|
 | [Array.diff](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Arraydiff.js)|||:octocat:|
 
 
