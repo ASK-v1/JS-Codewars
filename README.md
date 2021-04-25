@@ -30,7 +30,7 @@
 | [Return Negative](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Return_Negative.js)|:octocat:|
 | [Remove First and Last Character](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Remove_First_and_Last_Character.js)|:octocat:|
 | [Beginner - Lost Without a Map](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Beginner-LostWithoutaMap.js)|:octocat:|
-
+| [Grasshopper - Summation](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Beginner-Grasshopper-Summation.js)|:octocat:|
 
 
 
