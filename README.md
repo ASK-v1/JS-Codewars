@@ -23,6 +23,18 @@
 | [Stop gninnipS My sdroW!](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Stop_gninnipS_My_sdroW!.js)|||:octocat:|
 | [Who likes it?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Who_likes_it.js)|||:octocat:|
 | [Array.diff](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Arraydiff.js)|||:octocat:|
+| [Counting sheep](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Counting_sheep.js)|:octocat:|
+| [Remove String Spaces](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Remove_String_Spaces.js)|:octocat:|
+| [String repeat](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/String_repeat.js)|:octocat:|
+| [Reversed Strings](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Reversed_Strings.js)|:octocat:|
+| [Return Negative](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Return_Negative.js)|:octocat:|
+| [Remove First and Last Character](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Remove_First_and_Last_Character.js)|:octocat:|
+| [Beginner - Lost Without a Map](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Beginner-LostWithoutaMap.js)|:octocat:|
+
+
+
+
+
 
 
 
