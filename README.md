@@ -34,6 +34,13 @@
 | [Sum of odd numbers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_odd_numbers.js)||:octocat:|
 | [Valid Parentheses](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Valid_Parentheses.js)||||:octocat:|
 | [Sort the odd](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Sort_the_odd.js)|||:octocat:|
+| [Two to One](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Two_to_One.js)||:octocat:|
+| [Replace With Alphabet Position](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Replace_With_Alphabet_Position.js)|||:octocat:|
+| [Find the unique number](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Find_the_unique_number.js)|||:octocat:|
+| [Ones and Zeros](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Ones_and_Zeros.js)||:octocat:|
+| [List Filtering](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/List_Filtering.js)||:octocat:|
+| [Convert string to camel case](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Convert_string_to_camel_case.js)|||:octocat:|
+
 
 
 
