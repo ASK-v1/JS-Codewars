@@ -40,6 +40,12 @@
 | [Ones and Zeros](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Ones_and_Zeros.js)||:octocat:|
 | [List Filtering](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/List_Filtering.js)||:octocat:|
 | [Convert string to camel case](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Convert_string_to_camel_case.js)|||:octocat:|
+| [Is a number prime?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Is_a_number_prime.js)|||:octocat:|
+| [Is n divisible by x and y](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Is_n_divisible_by_x_and_y.js)|:octocat:|
+| [Regex validate PIN code](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Regex_validate_PIN_code.js)||:octocat:|
+| [Human Readable Time](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Human_Readable_Time.js)||||:octocat:|
+
+
 
 
 
