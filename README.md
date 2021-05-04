@@ -44,6 +44,10 @@
 | [Is n divisible by x and y](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Is_n_divisible_by_x_and_y.js)|:octocat:|
 | [Regex validate PIN code](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Regex_validate_PIN_code.js)||:octocat:|
 | [Human Readable Time](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Human_Readable_Time.js)||||:octocat:|
+| [Friend or Foe](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Friend_or_Foe.js)||:octocat:|
+| [Binary Addition](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Binary_Addition.js)||:octocat:|
+| [Basic Mathematical Operations](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Basic_Mathematical_Operations.js)|:octocat:|
+| [Century From Year](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Century_From_Year.js)|:octocat:|
 
 
 
