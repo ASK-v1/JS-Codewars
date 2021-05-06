@@ -48,6 +48,14 @@
 | [Binary Addition](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Binary_Addition.js)||:octocat:|
 | [Basic Mathematical Operations](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Basic_Mathematical_Operations.js)|:octocat:|
 | [Century From Year](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Century_From_Year.js)|:octocat:|
+| [Square Every Digit](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Square_Every_Digit.js)||:octocat:|
+| [Sum of two lowest positive integers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_two_lowest_positive_integers.js)||:octocat:|
+| [Get the Middle Character](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Get_the_Middle_Character.js)||:octocat:|
+| [Playing with digits](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Playing_with_digits.js)|||:octocat:|
+
+
+
+
 
 
 
