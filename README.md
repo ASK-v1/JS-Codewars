@@ -4,8 +4,8 @@
 
 
 
-| Kata | 8 kyu | 7 kyu | 6 kyu | 5 kyu | 4 kyu | 3 kyu | 2 kyu | 1 kyu |
-| ----------|:--------:|:-------:|:---------:|:---------:|:-------:|:-------:|:-------:|:-------:|
+| Kata | 8 kyu | 7 kyu | 6 kyu | 5 kyu | 
+| ----------|:----------:|:----------:|:----------:|:----------:|
 | [Fake Binary](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Fake_Binary.js)|:octocat:|
 | [Reverse a Number](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverse_a_Number.js)||:octocat:|
 | [Merge two Arrays](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/merge_two_arrays.js)||:octocat:|
@@ -52,6 +52,10 @@
 | [Sum of two lowest positive integers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_two_lowest_positive_integers.js)||:octocat:|
 | [Get the Middle Character](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Get_the_Middle_Character.js)||:octocat:|
 | [Playing with digits](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Playing_with_digits.js)|||:octocat:|
+| [Keep Hydrated](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Keep_Hydrated.js)|:octocat:|
+| [Write Number in Expanded Form](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Write_Number_in_Expanded_Form.js)|||:octocat:|
+| [Abbreviate a Two Word Name](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Abbreviate_a_Two_Word_Name.js)|:octocat:|
+| [Sum of the first nth term of Series](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_the_first_nth_term_of_Series.js)||:octocat:|
 
 
 
