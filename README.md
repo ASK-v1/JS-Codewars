@@ -56,6 +56,12 @@
 | [Write Number in Expanded Form](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Write_Number_in_Expanded_Form.js)|||:octocat:|
 | [Abbreviate a Two Word Name](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Abbreviate_a_Two_Word_Name.js)|:octocat:|
 | [Sum of the first nth term of Series](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_the_first_nth_term_of_Series.js)||:octocat:|
+| [Reversed Words](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Reversed_Words.js)|:octocat:|
+| [Do I get a bonus?](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Do_I_get_a_bonus.js)|:octocat:|
+| [Is he gonna survive?](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Is_he_gonna_survive.js)|:octocat:|
+| [Odd or Even?](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Odd_or_Even.js)||:octocat:|
+| [Extract the domain name from a URL](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Extract_the_domain_name_from_a_URL.js)||||:octocat:|
+| [Reverse words](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverse_words.js)||:octocat:|
 
 
 
