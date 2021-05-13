@@ -62,6 +62,11 @@
 | [Odd or Even?](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Odd_or_Even.js)||:octocat:|
 | [Extract the domain name from a URL](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Extract_the_domain_name_from_a_URL.js)||||:octocat:|
 | [Reverse words](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverse_words.js)||:octocat:|
+| [Exes and Ohs](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Exes_and_Ohs.js)||:octocat:|
+| [Growth of a Population](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Growth_of_a_Population.js)||:octocat:|
+| [Your order please](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Your_order_please.js)|||:octocat:|
+
+
 
 
 
