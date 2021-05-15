@@ -65,10 +65,10 @@
 | [Exes and Ohs](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Exes_and_Ohs.js)||:octocat:|
 | [Growth of a Population](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Growth_of_a_Population.js)||:octocat:|
 | [Your order please](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Your_order_please.js)|||:octocat:|
-
-
-
-
+| [IP Validation](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/IP_Validation.js)|||:octocat:|
+| [Find the stray number](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Find_the_stray_number.js)||:octocat:|
+| [Regex Password Validation](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Regex_Password_Validation.js)||||:octocat:|
+| [Break camelCase](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Break_camelCase.js)|||:octocat:|
 
 
 
