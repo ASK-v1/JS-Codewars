@@ -69,6 +69,8 @@
 | [Find the stray number](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Find_the_stray_number.js)||:octocat:|
 | [Regex Password Validation](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Regex_Password_Validation.js)||||:octocat:|
 | [Break camelCase](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Break_camelCase.js)|||:octocat:|
+| [CamelCase Method](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/CamelCase_Method.js)|||:octocat:|
+| [Jaden Casing Strings](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Jaden_Casing_Strings.js)||:octocat:|
 
 
 
