@@ -71,7 +71,12 @@
 | [Break camelCase](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Break_camelCase.js)|||:octocat:|
 | [CamelCase Method](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/CamelCase_Method.js)|||:octocat:|
 | [Jaden Casing Strings](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Jaden_Casing_Strings.js)||:octocat:|
-
+| [Factorial](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Factorial.js)||:octocat:|
+| [DNA to RNA Conversion](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/DNA_to_RNA_Conversion.js)|:octocat:|
+| [Find the middle element](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Find_the_middle_element.js)||:octocat:|
+| [Roman Numerals Decoder](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Roman_Numerals_Decoder.js)|||:octocat:|
+| [Number of trailing zeros of N](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Number_of_trailing_zeros_of_N.js)||||:octocat:|
+| [Sort array by string length](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sort_array_by_string_length.js)||:octocat:|
 
 
 
