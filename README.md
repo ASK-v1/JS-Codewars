@@ -77,7 +77,6 @@
 | [Roman Numerals Decoder](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Roman_Numerals_Decoder.js)|||:octocat:|
 | [Number of trailing zeros of N](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Number_of_trailing_zeros_of_N.js)||||:octocat:|
 | [Sort array by string length](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sort_array_by_string_length.js)||:octocat:|
-
 | [Four/Seven](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Four_Seven.js)||:octocat:|
 | [Grid index](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Grid_index.js)||:octocat:|
 | [Split Strings](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Split_Strings.js)|||:octocat:|
