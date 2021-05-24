@@ -80,6 +80,12 @@
 | [Four/Seven](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Four_Seven.js)||:octocat:|
 | [Grid index](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Grid_index.js)||:octocat:|
 | [Split Strings](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Split_Strings.js)|||:octocat:|
+| [Reverse Factorials](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverse_Factorials.js)||:octocat:|
+| [Valid Phone Number](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Valid_Phone_Number.js)|||:octocat:|
+| [Data Reverse](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Data_Reverse.js)|||:octocat:|
+| [Reverser](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverser.js)||:octocat:|
+| [Summing a numbers digits](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Summing_a_numbers_digits.js)||:octocat:|
+
 
 
 
