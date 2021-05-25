@@ -85,6 +85,11 @@
 | [Data Reverse](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Data_Reverse.js)|||:octocat:|
 | [Reverser](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Reverser.js)||:octocat:|
 | [Summing a numbers digits](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Summing_a_numbers_digits.js)||:octocat:|
+| [Primorial Of a Number](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/Primorial_Of_a_Number.js)|||:octocat:|
+| [My Languages](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/My_Languages.js)||:octocat:|
+| [Row Weights](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Row_Weights.js)||:octocat:|
+| [Two Oldest Ages](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Two_Oldest_Ages.js)||:octocat:|
+
 
 
 
