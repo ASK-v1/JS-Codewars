@@ -89,6 +89,14 @@
 | [My Languages](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/My_Languages.js)||:octocat:|
 | [Row Weights](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Row_Weights.js)||:octocat:|
 | [Two Oldest Ages](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Two_Oldest_Ages.js)||:octocat:|
+| [First n Prime Numbers](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/First_n_Prime_Numbers.js)||||:octocat:|
+| [Maximum Multiple](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Maximum_Multiple.js)||:octocat:|
+| [Sum of Minimums](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_Minimums.js)||:octocat:|
+| [What century is it?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/What_century_is_it.js)|||:octocat:|
+
+
+
+
 
 
 
