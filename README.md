@@ -93,8 +93,12 @@
 | [Maximum Multiple](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Maximum_Multiple.js)||:octocat:|
 | [Sum of Minimums](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_of_Minimums.js)||:octocat:|
 | [What century is it?](https://github.com/ask-xl/JS-Codewars/blob/main/6-kyu/What_century_is_it.js)|||:octocat:|
-
-
+| [Are the numbers in order](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Are_the_numbers_in_order.js)||:octocat:|
+| [Count the divisors of a number](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Count_the_divisors_of_a_number.js)||:octocat:|
+| [Find the capitals](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Find_the_capitals.js)||:octocat:|
+| [Fix string case](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Fix_string_case.js)||:octocat:|
+| [Form The Largest](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Form_The_Largest.js)||:octocat:|
+| [Sum even numbers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_even_numbers.js)||:octocat:|
 
 
 
