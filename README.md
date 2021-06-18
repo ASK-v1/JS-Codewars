@@ -99,7 +99,13 @@
 | [Fix string case](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Fix_string_case.js)||:octocat:|
 | [Form The Largest](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Form_The_Largest.js)||:octocat:|
 | [Sum even numbers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Sum_even_numbers.js)||:octocat:|
-
+| [Bit calculator](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Bit_calculator.js)||||:octocat:|
+| [Prime Numbers](https://github.com/ask-xl/JS-Codewars/blob/main/5-kyu/Prime_Numbers.js)||||:octocat:|
+| [Sum The Strings](https://github.com/ask-xl/JS-Codewars/blob/main/8-kyu/Sum_The_Strings.js)|:octocat:|
+| [Next Prime](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Next_Prime.js)||:octocat:|
+| [Narcissistic Numbers](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Narcissistic_Numbers.js)||:octocat:|
+| [Initialize my name](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Initialize_my_name.js)||:octocat:|
+| [Basic Calculator](https://github.com/ask-xl/JS-Codewars/blob/main/7-kyu/Basic_Calculator.js)||:octocat:|
 
 
 
